@@ -1,18 +1,18 @@
 ![Hi there](./assets/img/header.png)
 # Hi, I'm Chuck! 👋
-<small style="color:#007aff">@October 15, 2022</small>
+<small>@October 15, 2022</small>
 
 I'm a graphic designer who learned to love HTML/CSS and sometimes JS. <span title="WHHAAAT? 😱">24</span> years later I'm a **front-end developer** focused on **semantics**, **accessibility**. 
 
 I also have a livestreamed show on Sundays called "**Maquetando con Chuck**" where I share what I know about coding HTML and CSS.
 
 ## Projects that I'm proud of
-
-<ul style="display:flex;list-style:none;padding:0;">
+(Pending)
+<!--<ul style="display:flex;list-style:none;padding:0;">
 <li>uno</li>
 <li>dos</li>
 <li>tres</li>
-</ul>
+</ul>-->
 
 <!--
 **oneeyedman/oneeyedman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
