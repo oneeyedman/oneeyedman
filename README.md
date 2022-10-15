@@ -1,6 +1,5 @@
-# Hi, I'm Chuck! 👋
 ![Hi there](./assets/img/header.png)
-
+# Hi, I'm Chuck! 👋
 <small style="color:#007aff">@October 15, 2022</small>
 
 I'm a graphic designer who learned to love HTML/CSS and sometimes JS. <span title="WHHAAAT? 😱">24</span> years later I'm a **front-end developer** focused on **semantics**, **accessibility**. 
