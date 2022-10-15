@@ -8,8 +8,8 @@ I also have a livestreamed show on Sundays called "**Maquetando con Chuck**" whe
 
 ## Projects that I'm proud of
 
-[<img src="./assets/img/humanstxt.svg" height="150">](https://humanstxt.org)
-[<img src="./assets/img/humanstxt.svg" height="150">](https://humanstxt.org)
+[<img src="./assets/img/humanstxt.svg" height="75">](https://humanstxt.org)
+[<img src="./assets/img/humanstxt.svg" height="75">](https://humanstxt.org)
 
 <!--
 **oneeyedman/oneeyedman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
