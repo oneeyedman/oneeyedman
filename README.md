@@ -24,6 +24,7 @@ I also have a livestreamed show on Sundays called "**Maquetando con Chuck**" whe
 <a href="https://community.penpot.app/u/chuck/"><img src="https://img.shields.io/badge/Chuck_--_Penpot_Community-f4f5f6?logo=penpot&logoColor=222&style=for-the-badge"></a>
 <a href="https://www.dribbble.com/oneeyedman"><img src="https://img.shields.io/badge/oneeyedman-EA4C89?logo=dribbble&logoColor=white&style=for-the-badge"></a>
 <a href="https://www.polywork.com/oneeyedman"><img src="https://img.shields.io/badge/oneeyedman-582BE8?logo=polywork&logoColor=white&style=for-the-badge"></a>
+<a href="https://www.discord.com/"><img src="https://img.shields.io/badge/oneeyedman-5865F3?logo=discord&logoColor=white&style=for-the-badge"></a>
 
 
 <!--
