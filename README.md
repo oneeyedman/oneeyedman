@@ -18,12 +18,13 @@ I also have a livestreamed show on Sundays called "**Maquetando con Chuck**" whe
 
 
 ### Reach me on...
-<a href="https://mastodon.social/@oneeyedman"><img src="https://img.shields.io/badge/@oneeyedman-595AFF?logo=mastodon&logoColor=white&style=for-the-badge"></a>
-<a href="https://twitch.tv/guanaiman"><img src="https://img.shields.io/badge/Guanaiman-A870FF?logo=twitch&logoColor=white&style=for-the-badge"></a>
+<a href="https://laterracita.online/@oneeyedman" rel="me"><img src="https://img.shields.io/badge/@oneeyedman-595AFF?logo=mastodon&logoColor=white&style=for-the-badge"></a>
+<a href="https://twitch.tv/chuck_as_usual"><img src="https://img.shields.io/badge/Chuck_As_Usual-A870FF?logo=twitch&logoColor=white&style=for-the-badge"></a>
 <a href="https://www.youtube.com/c/chuck-as-usual"><img src="https://img.shields.io/badge/Chuck_as_usual-FF0200?logo=youtube&logoColor=white&style=for-the-badge"></a>
 <a href="https://community.penpot.app/u/chuck/"><img src="https://img.shields.io/badge/Chuck_--_Penpot_Community-f4f5f6?logo=penpot&logoColor=222&style=for-the-badge"></a>
 <a href="https://www.dribbble.com/oneeyedman"><img src="https://img.shields.io/badge/oneeyedman-EA4C89?logo=dribbble&logoColor=white&style=for-the-badge"></a>
 <a href="https://www.polywork.com/oneeyedman"><img src="https://img.shields.io/badge/oneeyedman-582BE8?logo=polywork&logoColor=white&style=for-the-badge"></a>
+<a href="https://www.discord.com/"><img src="https://img.shields.io/badge/oneeyedman-5865F3?logo=discord&logoColor=white&style=for-the-badge"></a>
 
 
 <!--
