@@ -10,7 +10,7 @@
         </linearGradient>
     </defs>
     <g id="width-snitch" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" stroke="#C5EB9E" stroke-width="3" fill="#FFFFFF" fill-rule="nonzero" x="1.5" y="1.5" width="1234" height="397" rx="50"></rect>
+        <rect id="Rectangle" stroke="#C5EB9E" stroke-width="6" fill="#FFFFFF" fill-rule="nonzero" x="3" y="3" width="1231" height="394" rx="50"></rect>
         <g id="project-width-snitch" transform="translate(99.000000, 101.000000)" fill-rule="nonzero">
             <g id="Icon">
                 <rect id="area" fill-opacity="0.796932445" fill="#B6E685" x="0" y="0" width="197.64147" height="198" rx="19"></rect>
